@@ -4,3 +4,4 @@ rd1:new line
 rd1:222222222
 
 rd2:modify2
+rd1:switch feature/f1
